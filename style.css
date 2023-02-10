@@ -140,7 +140,7 @@ button img {
     .card {
         flex-direction: column;
         height: 90%;
-        max-height: 650px;
+        max-height: 600px;
     }
     .preview {
         width: 100%;
